@@ -1,46 +1,5 @@
-<#
-    .SYNOPSIS
-    Short description
-    
-    .DESCRIPTION
-    Long description
-    
-    .PARAMETER Url
-    Parameter description
-    
-    .PARAMETER UserName
-    Parameter description
-    
-    .PARAMETER UserPassword
-    Parameter description
-    
-    .PARAMETER FTPServerUrl
-    Parameter description
-    
-    .PARAMETER FTPServerUserName
-    Parameter description
-    
-    .PARAMETER FTPServerUserPassword
-    Parameter description
-    
-    .PARAMETER DownloadPath
-    Parameter description
-    
-    .PARAMETER SetBackupLocation
-    Parameter description
-    
-    .PARAMETER DownloadLatestBackup
-    Parameter description
-    
-    .PARAMETER CreateBackup
-    Parameter description
-    
-    .EXAMPLE
-    An example
-    
-    .NOTES
-    General notes
-#>
+# Author: Michael Schönburg
+# Erstellung: 07.04.2021
 
 [CmdletBinding()]
 param (
